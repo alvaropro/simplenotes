@@ -307,8 +307,8 @@ body {
   input[type="button"].button-primary {
 
     color: #FFF;
-    background-color: #D8D8D8;
-    border-color: #D8D8D8; }
+    background-color: #74DF00;
+    border-color: #74DF00; }
 
 
     .button.button-primary:hover,
@@ -326,8 +326,8 @@ body {
     input[type="button"].button-primary:focus */
 
         color: #FFF;
-        background-color: #74DF00;
-        border-color: #74DF00; }
+        background-color: #00C813;
+        border-color: #00C813; }
   
   
 
